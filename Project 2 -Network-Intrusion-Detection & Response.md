@@ -1,4 +1,4 @@
-# Project 3: Network Intrusion Detection and Response 🚨
+# Project 2: Network Intrusion Detection and Response 🚨
 
 ## Introduction 🌐
 Network intrusion detection is a crucial aspect of cybersecurity. It involves monitoring and analyzing network traffic for signs of unauthorized access or malicious activity. This project aims to equip you with the skills to set up an **Intrusion Detection System (IDS)**, detect network intrusions, and respond effectively. 
