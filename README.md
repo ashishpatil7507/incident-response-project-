@@ -32,4 +32,25 @@ This repository is dedicated to **hands-on cybersecurity projects**, crafted to 
 ---
 
 ### **3. Network Intrusion Detection and Response** 🌐🚨
-- **Objective**: Enhance your skills in detecting and responding to **network intrusions** using IDS/
+- **Objective**: Enhance your skills in detecting and responding to **network intrusions** using IDS/IPS. Analyze traffic and implement **response strategies** to mitigate attacks. 🛡️💻
+- **Key Skills**: IDS/IPS, traffic analysis, network defense
+- **Tools**: 
+  - Snort 🐍
+  - Wireshark 🌐
+  - tcpdump 📊
+  - Suricata 🚓
+- **Details**: [Network Intrusion Detection and Response Project](https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners/blob/main/Project-3-Network-Intrusion-Detection-and-Response.md)
+
+---
+
+### **4. DDoS Attack Detection and Mitigation** 🌐⚔️
+- **Objective**: Master the detection and **mitigation of DDoS attacks**. Simulate attacks, capture traffic, and implement **mitigation measures** to protect networks. 🔒🌐
+- **Key Skills**: DDoS detection, traffic analysis, attack mitigation
+- **Tools**: 
+  - Wireshark 🌐
+  - tcpdump 📊
+  - DDoSify 💥 (for attack simulation)
+  - Snort 🐍
+  - Fail2Ban 🔒
+- **Details**: [DDoS Attack Detection and Response Project](https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners/blob/main/Project-4-DDoS-attack-detection-and-response.md)
+
